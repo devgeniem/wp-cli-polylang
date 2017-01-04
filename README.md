@@ -24,3 +24,6 @@ Command added
     home           Gets the site homepage URL in the specified language
     language       Adds, gets information or remove a language
     languages      Prints the languages currently available
+
+## Maintainers
+[@villepietarinen](https://github.com/villepietarinen)
